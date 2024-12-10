@@ -2,7 +2,7 @@ funny website hosted by github
 # Geology projects
 ## Northeast VS Southeast Minnesota
 
-The geology of Minnesota is quite a long and confusing one. There are many many factors and events to take into account. But before we get into the specifics, we need to recap important general geology content.
+So, uh, rocks. The geology of Minnesota is quite a long and confusing one. There are many many factors and events to take into account. But before we get into the specifics, we need to recap important general geology content.
 
 There are three main types of rocks. Igneous, sedimentary, and metamorphic. Igneous rocks are formed from the cooling of magma and lava, and the rock is classified differently depending on where it is formed. If rock formed from magma underground, it is called an intrusive igneous rock. If a rock formed from lava on the surface, it is called an extrusive igneous rock. The main types of intrusive igneous rocks found in Minnesota are Gabbro, Anorthosite, and Granite. The main types of extrusive igneous rocks found in Minnesota are Basalt and Rhyolite. 
 
