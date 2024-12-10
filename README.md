@@ -1,6 +1,6 @@
 funny website hosted by github
 # Geology projects
-**Northeast VS Southeast Minnesota**
+## Northeast VS Southeast Minnesota
 
 The geology of Minnesota is quite a long and confusing one. There are many many factors and events to take into account. But before we get into the specifics, we need to recap important general geology content.
 
@@ -34,7 +34,7 @@ Okay cool. We got two completely separate areas of Minnesota, each with their ow
 
 Now I ask myself the question, “what the hell have I actually learned in the past month(ish)?” Well, I have learned about limestone and karst topography. I have learned about caves and sinkholes and how they form. I have learned about all the cute little speleothems you can find in caves, such as stalactites, stalagmites, flowstone, cave bacon, and more. I have learned about the ancient seas that once covered the area, and the cephalopods that once lived there. I have learned that Lake Superior was not, in fact, created solely by glaciers like I have been led to believe my whole life. I have learned why Minnesota is the number one iron producer in the country, why there is so much iron there, every important step on how to mine the iron from blasting it out of the ground to crushing it to making it into pellets to shipping it across the lakes to be made into steel. I have learned about the chaos created by the mid continent rift, how it created unique tilted slate and massive lava flows. I have learned how agates form and how to find them (and also the fact that they exist because I had never heard of them before this class). Last but most certainly not least, I have learned to care for my classmates and my home state just a little bit more each and every day.
 
-**Minnesota Dam VS Global Dam**
+## Minnesota Dam VS Global Dam
 
 Hello. My name is Colin, and in this dam video, I am going to be comparing and contrasting the International Falls Dam in Minnesota, with the Oroville Dam in California. But before I get into that, I am going to go over some basic dam information.
 
